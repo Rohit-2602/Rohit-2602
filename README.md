@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am a 2nd Year EE undergrade at [https://www.nitkkr.ac.in NIT KKR]
+I am a 2nd Year EE undergrade at [NIT KKR](https://www.nitkkr.ac.in)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
