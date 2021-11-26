@@ -13,17 +13,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-</br>
-
-<div align="center"
-<a href="https://github.com/Rohit-2602">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit-2602&show_icons=true&theme=algolia&line_height=27" alt="Rohit's github stats"/>
-</a>
-
-</div>
-
-</br>
-
 ## Connect With ME
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-sharma-963b2b1a9/" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/65807152/135399452-2564944d-9f86-4061-832f-2596733617e7.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
