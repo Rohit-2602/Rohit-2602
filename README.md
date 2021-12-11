@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello There, I am Rohit sharma</h1>
 
 - 🔭 I’m currently working on **Some Self Projects**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **JetPack Compose**
 - 👯 I’m looking to collaborate on **Android Development**
 - 💬 Ask me about **Kotlin/Native Android, Git, Github**
 
