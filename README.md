@@ -1,11 +1,11 @@
 <h1 align="center">Hello There <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Rohit Sharma</h1>
 
-<h3 align="center">A passionate Android developer from India</h3><br />
+<h3 align="center">A passionate Blockchain Developer from India</h3><br />
 
 - 🔭 I’m currently working on **Some Self Projects**
-- 🌱 I’m currently learning **Solidity**
-- 👯 I’m looking to collaborate on **Android Development**
-- 💬 Ask me about **Android, Git, Github**
+- 🌱 I’m currently learning **Hyperledger**
+- 👯 I’m looking to collaborate on any Good Idea
+- 💬 Ask me about anything, I will try to Answer
 - 📫 How to reach me rohi.2602@gmail.com<br />
 
 <h3 align="left">Languages and Tools:</h3>
