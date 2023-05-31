@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning more about **Smart Contract Security**
 - 👯 I’m looking to collaborate on any **Good Idea**
 - 📫 You can reach me at: rohi.2602@gmail.com
+- <img src="https://komarev.com/ghpvc/?username=Rohit-2602&style=flat-square" alt="Profile Views" />
 
 <h3 align="left">Skills:</h3>
 
